@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "950653619176",
+    "firebase_url": "https://firestore-tutorial-5bba4.firebaseio.com",
+    "project_id": "firestore-tutorial-5bba4",
+    "storage_bucket": "firestore-tutorial-5bba4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950653619176:android:507c9cbf51d5a8aacdf25d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950653619176-3su50a405jo75im6skkm2qr6c42g9690.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1lFLS1nsbm_HnyjzoGAC23J3MwaFi1c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950653619176-3su50a405jo75im6skkm2qr6c42g9690.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
